@@ -6,7 +6,7 @@ body {
 #header-nav {background-color: #f6b319;padding: 0;}
 #header-nav h1 {color: #77180d;}
 .container {max-width: 2000px;}
-section {margin-right: 15px; margin-left: 15px; padding-right: 15px; padding-left: 15px; background-color: #acafaf; height: 1300px;}
+section {margin-right: 15px; margin-left: 15px; padding-right: 15px; padding-left: 15px; background-color: #acafaf;}
 h2 {margin-top: 20px; margin-bottom: 40px;}
 .navbar-brand a:hover, .navbar-brand a:focus {text-decoration: none;}
 hr {margin: 0; background-color: black;}
